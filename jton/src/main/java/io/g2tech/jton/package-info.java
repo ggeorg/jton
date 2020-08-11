@@ -2,4 +2,4 @@
  * @author George.Georgopoulos
  *
  */
-package io.jton;
+package io.g2tech.jton;

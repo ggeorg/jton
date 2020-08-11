@@ -1,4 +1,4 @@
-package io.jton.internal;
+package io.g2tech.jton.internal;
 
 import java.io.EOFException;
 import java.io.IOException;
@@ -10,9 +10,9 @@ import com.google.gson.stream.JsonReader;
 import com.google.gson.stream.JsonWriter;
 import com.google.gson.stream.MalformedJsonException;
 
-import io.jton.JtonElement;
-import io.jton.JtonNull;
-import io.jton.internal.bind.JtonTypeAdapter;
+import io.g2tech.jton.JtonElement;
+import io.g2tech.jton.JtonNull;
+import io.g2tech.jton.internal.bind.JtonTypeAdapter;
 
 /**
  * Reads and writes GSON parse trees over streams.

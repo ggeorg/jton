@@ -1,8 +1,8 @@
-package io.jton;
+package io.g2tech.jton;
 
 import com.google.gson.stream.JsonWriter;
 
-import io.jton.internal.Streams;
+import io.g2tech.jton.internal.Streams;
 
 import java.io.IOException;
 import java.io.StringWriter;

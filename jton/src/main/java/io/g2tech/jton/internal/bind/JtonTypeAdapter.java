@@ -1,4 +1,4 @@
-package io.jton.internal.bind;
+package io.g2tech.jton.internal.bind;
 
 import java.io.IOException;
 import java.util.Map;
@@ -10,11 +10,11 @@ import com.google.gson.internal.bind.TypeAdapters;
 import com.google.gson.stream.JsonReader;
 import com.google.gson.stream.JsonWriter;
 
-import io.jton.JtonArray;
-import io.jton.JtonElement;
-import io.jton.JtonNull;
-import io.jton.JtonObject;
-import io.jton.JtonPrimitive;
+import io.g2tech.jton.JtonArray;
+import io.g2tech.jton.JtonElement;
+import io.g2tech.jton.JtonNull;
+import io.g2tech.jton.JtonObject;
+import io.g2tech.jton.JtonPrimitive;
 
 /**
  * Type adapters for basic types.

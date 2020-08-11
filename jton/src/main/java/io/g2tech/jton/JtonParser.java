@@ -1,4 +1,4 @@
-package io.jton;
+package io.g2tech.jton;
 
 import java.io.IOException;
 import java.io.Reader;
@@ -11,7 +11,7 @@ import com.google.gson.stream.JsonReader;
 import com.google.gson.stream.JsonToken;
 import com.google.gson.stream.MalformedJsonException;
 
-import io.jton.internal.Streams;
+import io.g2tech.jton.internal.Streams;
 
 /**
  * A parser to parse JSON into a parse tree of {@link JtonElement}s

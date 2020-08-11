@@ -1,4 +1,4 @@
-package io.jton;
+package io.g2tech.jton;
 
 /**
  * A class representing a JTON {@code null} value.
